@@ -1,0 +1,30 @@
+.getstarted-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 35.938rem;
+  width: 100%;
+  gap: 2.875rem;
+}
+.getstarted-container h1 {
+  text-align: center;
+  width: 45.063rem;
+  height: 8.25rem;
+}
+.getstarted-container button {
+  width: 12.625rem;
+  height: 4.125rem;
+  background: #34a853;
+  border-radius: 100px;
+  color: #fff;
+  font-weight: 800;
+  font-size: 22px;
+  line-height: 30px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.getstarted-container button:hover{
+  background-color: #2c9147;
+}

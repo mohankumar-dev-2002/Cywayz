@@ -1,0 +1,99 @@
+.hero-section {
+  display: flex;
+  justify-content: center;
+  padding: 4.813rem 16.688rem 0 16.688rem;
+}
+
+.hero {
+  width: 100%;
+  height: 59.5rem;
+  background: linear-gradient(
+    180deg,
+    #ffffff 76.57%,
+    rgba(218, 218, 218, 1.5) 104.71%
+  );
+}
+
+.text-content {
+  width: 56.625rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--font-family);
+  font-weight: 800;
+  font-size: 48px;
+}
+
+p {
+  padding: 2.5rem 0;
+  font-family: var(--font-family);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.search-element input {
+  width: 56.625rem;
+  height: 4.563rem;
+  border-radius: 100px;
+  background: #f3f3f3;
+  border: 1px solid #e4e2e2;
+}
+.laptop-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 27.496rem;
+  position: relative;
+  top: 5.875rem;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  height: 27.496rem;
+  z-index: 0;
+}
+
+.login-btn button {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #000000;
+  position: fixed;
+  bottom: 3rem;
+  left: calc(47%);
+  width: 8.125rem;
+  height: 3.563rem;
+  background: #ffffff;
+  border: 1px solid #e4e2e2;
+  border-radius: 100px;
+  z-index: 2;
+  cursor: pointer;
+}
+.login-btn button:hover{
+  background: #f7f7f7;
+}
+@media screen and (max-width:480px){
+  h1{
+    font-size:16px;
+  }
+  p{
+    font-size: 12px;
+  }
+  .hero-section{
+    padding: 0;
+  }
+}

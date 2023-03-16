@@ -1,0 +1,200 @@
+[
+    {
+        "avatar": 0,
+        "name": "Sathish",
+        "job": "Designer",
+        "stars": 4
+    },
+    {
+        "avatar": 0,
+        "name": "Rahul",
+        "job": "Developer",
+        "stars": 5
+    },
+    {
+        "avatar": 0,
+        "name": "Riyan",
+        "job": "SOC Analyst",
+        "stars": 3
+    },
+    {
+        "avatar": 0,
+        "name": "Diab",
+        "job": "DevOps Engineer",
+        "stars": 3.5
+    },
+    {
+        "avatar": 0,
+        "name": "Bran",
+        "job": "Designer",
+        "stars": 4
+    },
+    {
+        "avatar": 0,
+        "name": "Tersa",
+        "job": "CISO",
+        "stars": 4
+    },
+    {
+        "avatar": 0,
+        "name": "Vennes",
+        "job": "Product Lead",
+        "stars": 4
+    },
+    {
+        "avatar": 0,
+        "name": "John Smith",
+        "job": "Software Engineer",
+        "stars": 3
+    },
+    {
+        "avatar": 1,
+        "name": "Emily Brown",
+        "job": "Marketing Manager",
+        "stars": 5
+    },
+    {
+        "avatar": 2,
+        "name": "David Wilson",
+        "job": "Graphic Designer",
+        "stars": 4
+    },
+    {
+        "avatar": 3,
+        "name": "Sarah Lee",
+        "job": "Product Manager",
+        "stars": 4
+    },
+    {
+        "avatar": 4,
+        "name": "Michael Chen",
+        "job": "Data Analyst",
+        "stars": 2
+    },
+    {
+        "avatar": 0,
+        "name": "John Smith",
+        "job": "Software Engineer",
+        "stars": 4
+    },
+    {
+        "avatar": 1,
+        "name": "Emily Johnson",
+        "job": "Web Designer",
+        "stars": 3
+    },
+    {
+        "avatar": 2,
+        "name": "William Brown",
+        "job": "Data Analyst",
+        "stars": 5
+    },
+    {
+        "avatar": 3,
+        "name": "Emma Davis",
+        "job": "Marketing Manager",
+        "stars": 4
+    },
+    {
+        "avatar": 4,
+        "name": "Michael Wilson",
+        "job": "Project Manager",
+        "stars": 4
+    },
+    {
+        "avatar": 5,
+        "name": "Olivia Taylor",
+        "job": "UI/UX Designer",
+        "stars": 3
+    },
+    {
+        "avatar": 6,
+        "name": "David Martinez",
+        "job": "Software Developer",
+        "stars": 5
+    },
+    {
+        "avatar": 7,
+        "name": "Sophia Anderson",
+        "job": "Product Manager",
+        "stars": 4
+    },
+    {
+        "avatar": 8,
+        "name": "James Wilson",
+        "job": "Software Engineer",
+        "stars": 5
+    },
+    {
+        "avatar": 9,
+        "name": "Isabella Garcia",
+        "job": "Web Developer",
+        "stars": 3
+    },
+    {
+        "avatar": 10,
+        "name": "Daniel Rodriguez",
+        "job": "Data Scientist",
+        "stars": 5
+    },
+    {
+        "avatar": 11,
+        "name": "Mia Jackson",
+        "job": "Marketing Specialist",
+        "stars": 4
+    },
+    {
+        "avatar": 12,
+        "name": "Robert Lee",
+        "job": "Project Manager",
+        "stars": 4
+    },
+    {
+        "avatar": 13,
+        "name": "Samantha Wright",
+        "job": "UI Designer",
+        "stars": 3
+    },
+    {
+        "avatar": 14,
+        "name": "John Johnson",
+        "job": "Software Developer",
+        "stars": 5
+    },
+    {
+        "avatar": 15,
+        "name": "Ava Brown",
+        "job": "Product Manager",
+        "stars": 4
+    },
+    {
+        "avatar": 16,
+        "name": "William Wilson",
+        "job": "Software Engineer",
+        "stars": 5
+    },
+    {
+        "avatar": 17,
+        "name": "Madison Miller",
+        "job": "Web Designer",
+        "stars": 3
+    },
+    {
+        "avatar": 18,
+        "name": "Ethan Davis",
+        "job": "Data Analyst",
+        "stars": 5
+    },
+    {
+        "avatar": 19,
+        "name": "Sophia Johnson",
+        "job": "Marketing Manager",
+        "stars": 4
+    },
+    {
+        "avatar": 20,
+        "name": "Christopher Garcia",
+        "job": "Software Developer",
+        "stars": 5
+    }
+]
